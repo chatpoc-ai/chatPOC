@@ -1,117 +1,44 @@
-# 💡 ChatPOC
+# ChatPOC
 
-> From idea to code, just one conversation | 从想法到代码，只需一次对话
+**From one sentence to a verified prototype.**
 
-[![Website](https://img.shields.io/badge/Website-020idea.com-blue)](https://020idea.com)
-[![Status](https://img.shields.io/badge/Status-Active-success)](https://020idea.com)
+[020idea.com](https://020idea.com) · [Examples](#examples) · [Pricing](https://020idea.com/pricing)
 
-## 🌟 Overview
+Describe an idea and ChatPOC turns it into a PRD and a demo-ready prototype. It doesn't stop at generating code. Every prototype ships with a scope document and an honest verification report that says what was tested, what passed and what wasn't.
 
-**ChatPOC** is a **free AI-powered tool** that helps you quickly transform ideas into working POC (Proof of Concept) prototypes. Through conversational interaction, AI automatically generates PRD (Product Requirements Document) and POC code to accelerate product development.
+## What you get
 
-**🌐 Official Website:** [https://020idea.com](https://020idea.com)
+- **Free to start.** Describe your idea and get a PRD and a prototype. No sign-up, just an email to receive the results.
+- **Scope you can read.** Every delivery includes a scope document: what's in, and what's explicitly out.
+- **Verified, honestly.** Each prototype comes with a verification report listing what was tested and what wasn't.
+- **Open source on GitHub.** The code arrives as a public repository you can clone, run and build on.
 
-## ✨ Key Features
+Want a person to scope it and re-run the tests? See [services and pricing](https://020idea.com/pricing).
 
-- 🆓 **Completely Free** - No registration required, open access
-- 💬 **Conversational Interface** - Describe your ideas in natural language
-- 📄 **Auto-Generate PRD** - AI deeply analyzes requirements and generates product requirements documents
-- 🚀 **Rapid POC Generation** - Transform PRD into working prototype code
-- 🌍 **Multi-Language Support** - English, Chinese, Japanese, French, Traditional Chinese
-- 📊 **Task Tracking** - Real-time status and progress monitoring
-- 🔄 **Iterative Improvement** - Support multiple rounds of refinement and enhancement
+## How it works
 
-## 🚀 Quick Start
+1. Describe your idea on [020idea.com](https://020idea.com).
+2. Answer a few clarifying questions, then leave an email for the results.
+3. ChatPOC writes the PRD and builds the prototype.
+4. The prototype is published as a public GitHub repository, with its scope document and verification report.
 
-### Online Usage
+## Examples
 
-Visit [https://020idea.com](https://020idea.com) to start using immediately - **no installation required**.
+| Prototype | What it is | Verification |
+|---|---|---|
+| [samplio](https://github.com/chatpoc-ai/samplio) | Sample management and team review for product teams. English/Chinese, React + SQLite. | [VERIFICATION.md](https://github.com/chatpoc-ai/samplio/blob/main/docs/VERIFICATION.md) |
+| [stockrelais](https://github.com/chatpoc-ai/stockrelais) | Inventory and distribution: a web app for managers and a native Android app for sellers. English/French, Firebase. | [VALIDATION.md](https://github.com/chatpoc-ai/stockrelais/blob/main/docs/VALIDATION.md) |
 
-### How It Works
+More prototypes are in [github.com/chatpoc-ai](https://github.com/chatpoc-ai).
 
-1. **Describe Your Idea** - Enter your product concept on the homepage
-2. **Requirement Clarification** - AI helps you discover real needs through conversation
-3. **Generate PRD** - AI automatically creates a product requirements document
-4. **Generate POC** - Transform PRD into a proof of concept prototype
-5. **Download Results** - Get PRD document and POC code
+## Languages
 
-## 🎯 Use Cases
+The site is available in English, French, Japanese, Simplified Chinese and Traditional Chinese.
 
-- **Product Managers** - Quickly validate product ideas
-- **Entrepreneurs** - Transform concepts into demonstrable prototypes
-- **Developers** - Accelerate prototype development
-- **Designers** - Rapidly generate interactive prototypes
+## A note on AI-generated code
 
-## 🌟 Why Choose ChatPOC?
-
-- ✅ **100% Free** - No payment required, use forever
-- ✅ **No Registration** - Just provide email to receive results
-- ✅ **AI-Powered** - Leverages latest AI technology
-- ✅ **Fast & Efficient** - From idea to prototype in minutes
-- ✅ **Continuous Improvement** - Support multiple iterations and refinements
-- ✅ **Multi-Language** - Available in 5 languages
-
-## 💡 Example Workflow
-
-```
-User Input: "I want to create a habit tracking app"
-    ↓
-AI Conversation: Clarifies requirements, asks questions
-    ↓
-PRD Generated: Complete product requirements document
-    ↓
-POC Generated: Working prototype code
-    ↓
-Download: Get PRD and POC files
-```
-
-## 🌐 Supported Languages
-
-- 🇬🇧 English
-- 🇨🇳 Simplified Chinese (简体中文)
-- 🇭🇰 Traditional Chinese (繁體中文)
-- 🇯🇵 Japanese (日本語)
-- 🇫🇷 French (Français)
-
-## 📊 Features in Detail
-
-### 🤖 AI-Powered Analysis
-- Deep requirement analysis through conversation
-- Automatic PRD generation
-- Intelligent code generation for POC
-
-### 📋 Task Management
-- Real-time task status tracking
-- Status history and comments
-- Email notifications
-
-### 🔄 Iterative Development
-- Multiple rounds of refinement
-- Continuous improvement support
-- Version tracking
-
-## 🔗 Links
-
-- **Official Website:** [https://020idea.com](https://020idea.com)
-- **Try It Now:** [Start Creating](https://020idea.com)
-
-## 📧 Support
-
-For questions, suggestions, or feedback, please visit our website or contact us through the platform.
-
-## ⭐ Star This Repository
-
-If ChatPOC helps you, please give us a Star! ⭐
+Prototypes are AI-generated. Each verification report lists what was and wasn't tested, so please read it before relying on a prototype.
 
 ---
 
-Made with ❤️ by ChatPOC Team
-
-**Let AI help you turn ideas into reality!** 🚀
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
+Built and maintained by Rong Gu. Questions and feedback: [020idea.com/contact](https://020idea.com/contact).
